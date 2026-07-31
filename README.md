@@ -1,12 +1,13 @@
-<h1 align="center">👋 Oii! Eu sou o Abner Pereira</h1>
+<h1 align="center">👋  Olá! Eu sou o Abner Pereira</h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack | React • Next.js • Node.js • NestJS
 </h3>
 
 <p align="center">
-Apaixonado por tecnologia, desenvolvimento web e por criar aplicações escaláveis utilizando JavaScript e TypeScript.
-Atualmente focado em aprimorar meus conhecimentos em AWS, arquitetura de software e microsserviços.
+Desenvolvedor Full Stack e estudante de Ciência da Computação.
+Experiência com React, Next.js, Node.js, NestJS, TypeScript e PostgreSQL.
+Atualmente aprofundando meus conhecimentos em AWS, Docker, Kubernetes e Arquitetura de Software.
 </p>
 
 
@@ -26,7 +27,6 @@ Atualmente focado em aprimorar meus conhecimentos em AWS, arquitetura de softwar
 - 🏗️ Clean Architecture
 - 🧩 Microsserviços
 
-
 ---
 
 <p align="center">
@@ -44,6 +44,8 @@ Atualmente focado em aprimorar meus conhecimentos em AWS, arquitetura de softwar
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SrAbnerP/SrAbnerP/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
