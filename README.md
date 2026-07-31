@@ -1,4 +1,8 @@
-<h1 align="center">👋  Olá! Eu sou o Abner Pereira</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Abner+Pereira" alt="Typing SVG">
+  </a>
+</div>
 
 <h3 align="center">
 Desenvolvedor Full Stack | React • Next.js • Node.js • NestJS
