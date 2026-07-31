@@ -14,6 +14,23 @@ Experiência com React, Next.js, Node.js, NestJS, TypeScript e PostgreSQL.
 Atualmente aprofundando meus conhecimentos em AWS, Docker, Kubernetes e Arquitetura de Software.
 </p>
 
+<p align="center">
+  <a href="mailto:abner.sol.pereira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abnerpereiradasilva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,html,css,tailwind,styledcomponents,sass,postgres,git"/>
+
+</p>
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SrAbnerP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -30,24 +47,6 @@ Atualmente aprofundando meus conhecimentos em AWS, Docker, Kubernetes e Arquitet
 - ☸️ Kubernetes
 - 🏗️ Clean Architecture
 - 🧩 Microsserviços
-
----
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,html,css,tailwind,styledcomponents,sass,postgres,git"/>
-
-</p>
-
-<p align="center">
-  <a href="mailto:abner.sol.pereira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/abnerpereiradasilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
