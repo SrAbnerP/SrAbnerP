@@ -46,9 +46,3 @@ Atualmente focado em aprimorar meus conhecimentos em AWS, arquitetura de softwar
 </a>
 
 </p>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SrAbnerP&color=blueviolet&style=flat-square"/>
-
-</div>
