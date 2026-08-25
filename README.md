@@ -32,11 +32,6 @@ Atualmente aprofundando meus conhecimentos em AWS, Docker, Kubernetes e Arquitet
 
 </p>
 
-<div align="center">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SrAbnerP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SrAbnerP&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 ---
 
 ## 💻 Atualmente estudando
